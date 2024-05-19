@@ -1,0 +1,6 @@
+2024-05-19 11:57:27 - El valor 100.0 [USD] corresponde al valor final de =>>> 86475.0 [ARS]
+2024-05-19 11:57:35 - El valor 100.0 [ARS] corresponde al valor final de =>>> 0.1156 [USD]
+2024-05-19 11:57:44 - El valor 100.0 [USD] corresponde al valor final de =>>> 512.91 [BRL]
+2024-05-19 11:57:53 - El valor 100.0 [BRL] corresponde al valor final de =>>> 19.5 [USD]
+2024-05-19 11:58:02 - El valor 100.0 [USD] corresponde al valor final de =>>> 383959.78 [COP]
+2024-05-19 11:58:10 - El valor 100.0 [COP] corresponde al valor final de =>>> 0.026045000000000002 [USD]
